@@ -45,3 +45,15 @@ a {
   visibility:hidden;
 }
 
+.img-thumbnail {
+   border: 2px solid red;
+}
+
+input[type=number]{
+  border: 2px solid red;
+}
+
+
+.szam{ 
+margin:0px auto 15px auto
+}
