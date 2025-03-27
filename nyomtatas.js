@@ -1,4 +1,4 @@
-function kalkulal(){
+ function kalkulal(){
     //Űrlapadatok
     const szelesseg=297;
     const magassag=420;
